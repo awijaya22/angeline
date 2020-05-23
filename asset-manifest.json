@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/angeline/static/css/main.1c424a4d.chunk.css",
+    "main.css": "/angeline/static/css/main.e12bfe7d.chunk.css",
     "main.js": "/angeline/static/js/main.8ce8a8b9.chunk.js",
     "main.js.map": "/angeline/static/js/main.8ce8a8b9.chunk.js.map",
     "runtime-main.js": "/angeline/static/js/runtime-main.bdf1cc04.js",
@@ -9,10 +9,10 @@
     "static/js/2.74ec9c02.chunk.js": "/angeline/static/js/2.74ec9c02.chunk.js",
     "static/js/2.74ec9c02.chunk.js.map": "/angeline/static/js/2.74ec9c02.chunk.js.map",
     "index.html": "/angeline/index.html",
-    "precache-manifest.9df668e7ef0cbfb72cccbaa4a73cc81e.js": "/angeline/precache-manifest.9df668e7ef0cbfb72cccbaa4a73cc81e.js",
+    "precache-manifest.5d7b132da58185e25f694405324a0e60.js": "/angeline/precache-manifest.5d7b132da58185e25f694405324a0e60.js",
     "service-worker.js": "/angeline/service-worker.js",
     "static/css/2.af3c1da9.chunk.css.map": "/angeline/static/css/2.af3c1da9.chunk.css.map",
-    "static/css/main.1c424a4d.chunk.css.map": "/angeline/static/css/main.1c424a4d.chunk.css.map",
+    "static/css/main.e12bfe7d.chunk.css.map": "/angeline/static/css/main.e12bfe7d.chunk.css.map",
     "static/js/2.74ec9c02.chunk.js.LICENSE.txt": "/angeline/static/js/2.74ec9c02.chunk.js.LICENSE.txt",
     "static/media/240px-Instagram.png": "/angeline/static/media/240px-Instagram.1ee2de0f.png",
     "static/media/facebook-icon.svg": "/angeline/static/media/facebook-icon.87635072.svg",
@@ -22,7 +22,7 @@
     "static/js/runtime-main.bdf1cc04.js",
     "static/css/2.af3c1da9.chunk.css",
     "static/js/2.74ec9c02.chunk.js",
-    "static/css/main.1c424a4d.chunk.css",
+    "static/css/main.e12bfe7d.chunk.css",
     "static/js/main.8ce8a8b9.chunk.js"
   ]
 }
