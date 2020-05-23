@@ -11,10 +11,10 @@ class Header extends React.Component{
                     <Navbar.Toggle aria-controls="basic-navbar-nav" />
                     <Navbar.Collapse id="basic-navbar-nav">
                         <Nav className="ml-auto">
-                            <Nav.Link href={'/'}>Home</Nav.Link>
-                            <Nav.Link href={'/about'}>About</Nav.Link>
-                            <Nav.Link href={'/resume'}>Resume</Nav.Link>
-                            <Nav.Link href={'/contact'}>Contact</Nav.Link>
+                            <Nav.Link href={process.env.PUBLIC_URL+'/'}>Home</Nav.Link>
+                            <Nav.Link href={process.env.PUBLIC_URL+'/about'}>About</Nav.Link>
+                            <Nav.Link href={process.env.PUBLIC_URL+'/resume'}>Resume</Nav.Link>
+                            <Nav.Link href={process.env.PUBLIC_URL+'/contact'}>Contact</Nav.Link>
                         </Nav>
                     </Navbar.Collapse>
                 </Navbar>
