@@ -16,16 +16,16 @@ class App extends React.Component{
                <div className={'h-100 App'}>
                    <Header></Header>
                    <Switch>
-                       <Route path={'/'} exact>
+                       <Route path={'/angeline/'} exact>
                            <HomePage/>
                        </Route>
-                       <Route path={'/resume'}>
+                       <Route path={'/angeline/resume'}>
                            <Resume/>
                        </Route>
-                       <Route path={'/contact'}>
+                       <Route path={'/angeline/contact'}>
                            <Contact/>
                        </Route>
-                       <Route path={'/about'}>
+                       <Route path={'/angeline/about'}>
 
                        </Route>
                    </Switch>
