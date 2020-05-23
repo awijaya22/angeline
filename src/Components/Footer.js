@@ -8,12 +8,9 @@ function Footer(){
     return(
         <footer>
             <Container fluid={true}>
-                <Row className={'border-top justify-content-between p-3'}>
-                    <Col className="p-0 justify-content-start" md={1} sm={6}>
-                        Angeline Wijaya
-                    </Col>
-                    <Col className={'p-0 d-flex justify-content-end'} md={5}>
-                        This site is made by Angeline
+                <Row className={'border-top justify-content-center p-3'}>
+                    <Col className={'p-0 d-flex justify-content-center'} md={5}>
+                        © 2020 Angeline's Personal Website by Angeline
                     </Col>
                 </Row>
             </Container>

@@ -7,6 +7,7 @@
     width: 200px;
     height: 200px;
     object-fit: cover;
+    z-index: 0;
 }
 .homepage-container a img {
     width: 50px;

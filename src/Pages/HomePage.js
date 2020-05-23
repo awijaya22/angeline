@@ -6,6 +6,7 @@ import facebook from '../Media/images/facebook-icon.svg';
 import github from '../Media/images/GitHub-Mark-64px.png';
 import instagram from '../Media/images/240px-Instagram.png';
 import youtube from '../Media/images/youtube.svg';
+import gmail from '../Media/images/gmail.png';
 import myimage from '../Media/images/myimage.jpg';
 
 
@@ -40,6 +41,9 @@ class HomePage extends React.Component {
                     </Col>
                     <Col xs={2} md={1} lg={1}>
                         <a href ='https://www.youtube.com/channel/UCfdEPt1BrC_7L2hnIcwMpkQ?view_as=subscriber'><Image src={youtube}/></a>
+                    </Col>
+                    <Col xs={2} md={1} lg={1}>
+                        <a href ='mailto:hqy99aw@gmail.com' target="_blank" rel="noopener noreferrer"><Image src={gmail}/></a>
                     </Col>
                 </Row>
             </Container>

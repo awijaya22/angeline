@@ -1,0 +1,8 @@
+.jumbotron{
+    background-color: white;
+}
+
+.about-container{
+    position: absolute;
+    top: calc(40% - 36px);
+}

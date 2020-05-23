@@ -5,6 +5,7 @@ span.navbar-brand{
 
 .navbar{
     border-radius: 0;
+    z-index: 100;
 }
 
 .nav-link{

@@ -5,7 +5,7 @@ import './App.css';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import HomePage from "./Pages/HomePage";
 import Resume from './Pages/Resume';
-import Contact from './Pages/Contact';
+import About from './Pages/About'
 import {HashRouter,Switch,Route} from "react-router-dom";
 
 class App extends React.Component{
@@ -22,11 +22,8 @@ class App extends React.Component{
                        <Route path={'/resume'}>
                            <Resume/>
                        </Route>
-                       <Route path={'/contact'}>
-                           <Contact/>
-                       </Route>
                        <Route path={'/about'}>
-
+                            <About/>
                        </Route>
                    </Switch>
 
