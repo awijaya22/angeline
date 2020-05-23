@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6d4d66fc5253d8ffd0d5a2f26689b364",
+    "revision": "c08762ce3cd07764330e776332f5e801",
     "url": "/angeline/index.html"
   },
   {
-    "revision": "b198ebb7a78c03170fc9",
+    "revision": "76e81c83ebc64bd25493",
     "url": "/angeline/static/css/2.af3c1da9.chunk.css"
   },
   {
-    "revision": "ee4d21cc9c248b38ba7b",
-    "url": "/angeline/static/css/main.2504082b.chunk.css"
+    "revision": "f3a965bdb1835b12b7c8",
+    "url": "/angeline/static/css/main.f78261b6.chunk.css"
   },
   {
-    "revision": "b198ebb7a78c03170fc9",
-    "url": "/angeline/static/js/2.ec501284.chunk.js"
+    "revision": "76e81c83ebc64bd25493",
+    "url": "/angeline/static/js/2.65966659.chunk.js"
   },
   {
     "revision": "3453b8997016469371284a28c0e873e2",
-    "url": "/angeline/static/js/2.ec501284.chunk.js.LICENSE.txt"
+    "url": "/angeline/static/js/2.65966659.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "ee4d21cc9c248b38ba7b",
-    "url": "/angeline/static/js/main.09c9971d.chunk.js"
+    "revision": "f3a965bdb1835b12b7c8",
+    "url": "/angeline/static/js/main.06c33365.chunk.js"
   },
   {
     "revision": "5bfe93f77a234da97935",
@@ -34,6 +34,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "8763507272a39fb1dd5b004ae89d373a",
     "url": "/angeline/static/media/facebook-icon.87635072.svg"
+  },
+  {
+    "revision": "0555ec3ecdf656bd639aac050fc00bd9",
+    "url": "/angeline/static/media/gmail.0555ec3e.png"
   },
   {
     "revision": "4b475fb3f54b3e35daa04295ec48df4c",
