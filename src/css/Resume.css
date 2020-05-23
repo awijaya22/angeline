@@ -1,0 +1,4 @@
+.resume-container{
+    position: absolute;
+    top: calc(40% - 36px);
+}
