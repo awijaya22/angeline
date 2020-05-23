@@ -2,6 +2,7 @@ import React from 'react';
 import Navbar from 'react-bootstrap/Navbar';
 import Nav from 'react-bootstrap/Nav';
 import '../css/Header.css'
+import {Link} from 'react-router-dom';
 
 class Header extends React.Component{
     render(){
@@ -11,10 +12,10 @@ class Header extends React.Component{
                     <Navbar.Toggle aria-controls="basic-navbar-nav" />
                     <Navbar.Collapse id="basic-navbar-nav">
                         <Nav className="ml-auto">
-                            <Nav.Link href={process.env.PUBLIC_URL+'/'}>Home</Nav.Link>
-                            <Nav.Link href={process.env.PUBLIC_URL+'/about'}>About</Nav.Link>
-                            <Nav.Link href={process.env.PUBLIC_URL+'/resume'}>Resume</Nav.Link>
-                            <Nav.Link href={process.env.PUBLIC_URL+'/contact'}>Contact</Nav.Link>
+                            <Link className='nav-link' to={'/'}>Home</Link>
+                            <Link className='nav-link' to={'/about'}>About</Link>
+                            <Link className='nav-link' to={'/resume'}>Resume</Link>
+                            <Link className='nav-link' to={'/contact'}>Contact</Link>
                         </Nav>
                     </Navbar.Collapse>
                 </Navbar>

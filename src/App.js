@@ -6,13 +6,13 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 import HomePage from "./Pages/HomePage";
 import Resume from './Pages/Resume';
 import Contact from './Pages/Contact';
-import {BrowserRouter as Router,Switch,Route} from "react-router-dom";
+import {HashRouter,Switch,Route} from "react-router-dom";
 
 class App extends React.Component{
     render()
     {
         return (
-            <Router basename={process.env.PUBLIC_URL}>
+            <HashRouter>
                <div className={'h-100 App'}>
                    <Header></Header>
                    <Switch>
@@ -32,7 +32,7 @@ class App extends React.Component{
 
                    <Footer/>
                </div>
-            </Router>
+            </HashRouter>
         )
     }
 }
