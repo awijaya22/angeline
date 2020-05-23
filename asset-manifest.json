@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/angeline/static/css/main.2504082b.chunk.css",
-    "main.js": "/angeline/static/js/main.6a0b8956.chunk.js",
-    "main.js.map": "/angeline/static/js/main.6a0b8956.chunk.js.map",
+    "main.js": "/angeline/static/js/main.15b55f06.chunk.js",
+    "main.js.map": "/angeline/static/js/main.15b55f06.chunk.js.map",
     "runtime-main.js": "/angeline/static/js/runtime-main.bdf1cc04.js",
     "runtime-main.js.map": "/angeline/static/js/runtime-main.bdf1cc04.js.map",
     "static/css/2.af3c1da9.chunk.css": "/angeline/static/css/2.af3c1da9.chunk.css",
     "static/js/2.ac4ade04.chunk.js": "/angeline/static/js/2.ac4ade04.chunk.js",
     "static/js/2.ac4ade04.chunk.js.map": "/angeline/static/js/2.ac4ade04.chunk.js.map",
     "index.html": "/angeline/index.html",
-    "precache-manifest.b01637f073c7cd088d19a16695865c19.js": "/angeline/precache-manifest.b01637f073c7cd088d19a16695865c19.js",
+    "precache-manifest.a265924d8b75d5547ebf71a7300b7bca.js": "/angeline/precache-manifest.a265924d8b75d5547ebf71a7300b7bca.js",
     "service-worker.js": "/angeline/service-worker.js",
     "static/css/2.af3c1da9.chunk.css.map": "/angeline/static/css/2.af3c1da9.chunk.css.map",
     "static/css/main.2504082b.chunk.css.map": "/angeline/static/css/main.2504082b.chunk.css.map",
@@ -25,6 +25,6 @@
     "static/css/2.af3c1da9.chunk.css",
     "static/js/2.ac4ade04.chunk.js",
     "static/css/main.2504082b.chunk.css",
-    "static/js/main.6a0b8956.chunk.js"
+    "static/js/main.15b55f06.chunk.js"
   ]
 }
