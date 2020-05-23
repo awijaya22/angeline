@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5a9ea7d38748e91cf1c00320fdf98750",
+    "revision": "6d4d66fc5253d8ffd0d5a2f26689b364",
     "url": "/angeline/index.html"
   },
   {
-    "revision": "c3d0a81ae013a0ccb550",
+    "revision": "b198ebb7a78c03170fc9",
     "url": "/angeline/static/css/2.af3c1da9.chunk.css"
   },
   {
-    "revision": "8937ed91b0c622f3c8a4",
+    "revision": "ee4d21cc9c248b38ba7b",
     "url": "/angeline/static/css/main.2504082b.chunk.css"
   },
   {
-    "revision": "c3d0a81ae013a0ccb550",
-    "url": "/angeline/static/js/2.ac4ade04.chunk.js"
+    "revision": "b198ebb7a78c03170fc9",
+    "url": "/angeline/static/js/2.ec501284.chunk.js"
   },
   {
     "revision": "3453b8997016469371284a28c0e873e2",
-    "url": "/angeline/static/js/2.ac4ade04.chunk.js.LICENSE.txt"
+    "url": "/angeline/static/js/2.ec501284.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "8937ed91b0c622f3c8a4",
-    "url": "/angeline/static/js/main.948e87cc.chunk.js"
+    "revision": "ee4d21cc9c248b38ba7b",
+    "url": "/angeline/static/js/main.09c9971d.chunk.js"
   },
   {
     "revision": "5bfe93f77a234da97935",
