@@ -9,7 +9,7 @@ function Footer(){
         <footer>
             <Container fluid={true}>
                 <Row className={'border-top justify-content-between p-3'}>
-                    <Col className="p-0" md={5} sm={6}>
+                    <Col className="p-0 justify-content-start" md={1} sm={6}>
                         Angeline Wijaya
                     </Col>
                     <Col className={'p-0 d-flex justify-content-end'} md={5}>

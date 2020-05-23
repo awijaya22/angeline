@@ -1,0 +1,11 @@
+.homepage-container{
+    position: absolute;
+    top: calc(30% - 36px);
+
+}
+
+.homepage-container img {
+    width: 50px; /* You can set the dimensions to whatever you want */
+    height: 50px;
+    object-fit: cover;
+}

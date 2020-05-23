@@ -9,9 +9,9 @@ class App extends React.Component{
     render()
     {
         return (
-           <div>
+           <div className={'h-100 App'}>
                <Header></Header>
-               <HomePage/>
+                   <HomePage/>
                <Footer/>
            </div>
         )
