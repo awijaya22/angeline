@@ -12,20 +12,20 @@ class App extends React.Component{
     render()
     {
         return (
-            <Router>
+            <Router basename={process.env.PUBLIC_URL}>
                <div className={'h-100 App'}>
                    <Header></Header>
                    <Switch>
-                       <Route path={'/angeline/'} exact>
+                       <Route path={'/'} exact>
                            <HomePage/>
                        </Route>
-                       <Route path={'/angeline/resume'}>
+                       <Route path={'/resume'}>
                            <Resume/>
                        </Route>
-                       <Route path={'/angeline/contact'}>
+                       <Route path={'/contact'}>
                            <Contact/>
                        </Route>
-                       <Route path={'/angeline/about'}>
+                       <Route path={'/about'}>
 
                        </Route>
                    </Switch>
