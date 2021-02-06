@@ -1,31 +1,29 @@
 {
   "files": {
-    "main.css": "/angeline/static/css/main.f78261b6.chunk.css",
-    "main.js": "/angeline/static/js/main.06c33365.chunk.js",
-    "main.js.map": "/angeline/static/js/main.06c33365.chunk.js.map",
-    "runtime-main.js": "/angeline/static/js/runtime-main.bdf1cc04.js",
-    "runtime-main.js.map": "/angeline/static/js/runtime-main.bdf1cc04.js.map",
-    "static/css/2.af3c1da9.chunk.css": "/angeline/static/css/2.af3c1da9.chunk.css",
-    "static/js/2.65966659.chunk.js": "/angeline/static/js/2.65966659.chunk.js",
-    "static/js/2.65966659.chunk.js.map": "/angeline/static/js/2.65966659.chunk.js.map",
+    "main.css": "/angeline/static/css/main.6dd6f97e.chunk.css",
+    "main.js": "/angeline/static/js/main.21761899.chunk.js",
+    "main.js.map": "/angeline/static/js/main.21761899.chunk.js.map",
+    "runtime-main.js": "/angeline/static/js/runtime-main.73de7ae5.js",
+    "runtime-main.js.map": "/angeline/static/js/runtime-main.73de7ae5.js.map",
+    "static/css/2.c2d63be1.chunk.css": "/angeline/static/css/2.c2d63be1.chunk.css",
+    "static/js/2.250b4c36.chunk.js": "/angeline/static/js/2.250b4c36.chunk.js",
+    "static/js/2.250b4c36.chunk.js.map": "/angeline/static/js/2.250b4c36.chunk.js.map",
     "index.html": "/angeline/index.html",
-    "precache-manifest.4256dafdd5e81f9515970ac69ac7f6d2.js": "/angeline/precache-manifest.4256dafdd5e81f9515970ac69ac7f6d2.js",
-    "service-worker.js": "/angeline/service-worker.js",
-    "static/css/2.af3c1da9.chunk.css.map": "/angeline/static/css/2.af3c1da9.chunk.css.map",
-    "static/css/main.f78261b6.chunk.css.map": "/angeline/static/css/main.f78261b6.chunk.css.map",
-    "static/js/2.65966659.chunk.js.LICENSE.txt": "/angeline/static/js/2.65966659.chunk.js.LICENSE.txt",
-    "static/media/240px-Instagram.png": "/angeline/static/media/240px-Instagram.1ee2de0f.png",
-    "static/media/facebook-icon.svg": "/angeline/static/media/facebook-icon.87635072.svg",
-    "static/media/gmail.png": "/angeline/static/media/gmail.0555ec3e.png",
-    "static/media/linkedin-icon.svg": "/angeline/static/media/linkedin-icon.4b475fb3.svg",
-    "static/media/myimage.jpg": "/angeline/static/media/myimage.d954186c.jpg",
-    "static/media/youtube.svg": "/angeline/static/media/youtube.2cb7c9ef.svg"
+    "static/css/2.c2d63be1.chunk.css.map": "/angeline/static/css/2.c2d63be1.chunk.css.map",
+    "static/css/main.6dd6f97e.chunk.css.map": "/angeline/static/css/main.6dd6f97e.chunk.css.map",
+    "static/js/2.250b4c36.chunk.js.LICENSE.txt": "/angeline/static/js/2.250b4c36.chunk.js.LICENSE.txt",
+    "static/media/240px-Instagram.9f6887ea.png": "/angeline/static/media/240px-Instagram.9f6887ea.png",
+    "static/media/facebook-icon.c7982afb.svg": "/angeline/static/media/facebook-icon.c7982afb.svg",
+    "static/media/gmail.cfbaba11.png": "/angeline/static/media/gmail.cfbaba11.png",
+    "static/media/linkedin-icon.7defd339.svg": "/angeline/static/media/linkedin-icon.7defd339.svg",
+    "static/media/myimage.50b8889d.jpg": "/angeline/static/media/myimage.50b8889d.jpg",
+    "static/media/youtube.a166d430.svg": "/angeline/static/media/youtube.a166d430.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.bdf1cc04.js",
-    "static/css/2.af3c1da9.chunk.css",
-    "static/js/2.65966659.chunk.js",
-    "static/css/main.f78261b6.chunk.css",
-    "static/js/main.06c33365.chunk.js"
+    "static/js/runtime-main.73de7ae5.js",
+    "static/css/2.c2d63be1.chunk.css",
+    "static/js/2.250b4c36.chunk.js",
+    "static/css/main.6dd6f97e.chunk.css",
+    "static/js/main.21761899.chunk.js"
   ]
 }
